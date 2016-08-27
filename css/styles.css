@@ -1,6 +1,3 @@
-.container div.navbar-header {
-  background-color: grey;
-}
 
 .jumbotron {
   text-align: center;
@@ -10,7 +7,7 @@
 }
 .text1 {
   font-family: "Times New Roman", Times, serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 img {
   float: right;
@@ -30,7 +27,6 @@ img {
 }
 
 body {
-  margin-top: -20px;
-
+  /*background-image: url(../img/animus-mix.gif);*/
+  background-color: #81AAB8;
 }
-.text1

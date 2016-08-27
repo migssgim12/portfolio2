@@ -1,0 +1,36 @@
+.container div.navbar-header {
+  background-color: grey;
+}
+
+.jumbotron {
+  text-align: center;
+  margin: 2px;
+  padding: 2px;
+  /*margin-top: 20px;*/
+}
+.text1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+img {
+  float: right;
+  height: 400px;
+  width: 300px;
+  padding-left: 20px;
+}
+
+.text {
+  color: purple;
+  margin-top: 200px;
+}
+
+.portland {
+  color: blue;
+  font-family: cursive;
+}
+
+body {
+  margin-top: -20px;
+
+}
+.text1

@@ -3,22 +3,23 @@
   text-align: center;
   margin: 2px;
   padding: 2px;
+  margin-bottom: 4px;
   /*margin-top: 20px;*/
 }
-.text1 {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 18px;
-}
+
 img {
   float: right;
-  height: 400px;
-  width: 300px;
   padding-left: 20px;
 }
 
-.text {
-  color: purple;
-  margin-top: 200px;
+.text  {
+  color: #00080A;
+  margin-top: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 17px;
+}
+h2 {
+  text-align: center;
 }
 
 .portland {
@@ -26,7 +27,8 @@ img {
   font-family: cursive;
 }
 
+
 body {
   /*background-image: url(../img/animus-mix.gif);*/
-  background-color: #81AAB8;
+  background-color: #A9AAAB;
 }
